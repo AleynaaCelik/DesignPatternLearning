@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\factories\\generator\\bankgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\factories\\generator\\bankgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\enums\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\enums\\banktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\factories\\akbankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\factories\\akbankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\banks\\akbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\banks\\akbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\factories\\vakifbankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\factories\\vakifbankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\banks\\vakifbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\banks\\vakifbank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\banks\\ziraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\banks\\ziraat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\factories\\ziraatfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\factories\\ziraatfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\abstractions\\ibankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\abstractions\\ibankfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|c:\\users\\dell\\source\\repos\\mextfullstackbootcamp-master\\console.app\\console.app\\abstractions\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92CC9874-3587-41FD-9ACD-A6B176C9C2CE}|Console.App\\Console.App.csproj|solutionrelative:console.app\\abstractions\\ibank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Enums\\BankType.cs",
+              "RelativeDocumentMoniker": "Console.App\\Enums\\BankType.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Enums\\BankType.cs",
+              "RelativeToolTip": "Console.App\\Enums\\BankType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:42:35.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\Generator\\BankGenerator.cs",
+              "RelativeDocumentMoniker": "Console.App\\Factories\\Generator\\BankGenerator.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\Generator\\BankGenerator.cs",
+              "RelativeToolTip": "Console.App\\Factories\\Generator\\BankGenerator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:41:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZiraatFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\ZiraatFactory.cs",
+              "RelativeDocumentMoniker": "Console.App\\Factories\\ZiraatFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\ZiraatFactory.cs",
+              "RelativeToolTip": "Console.App\\Factories\\ZiraatFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:35:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VakifBankFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\VakifBankFactory.cs",
+              "RelativeDocumentMoniker": "Console.App\\Factories\\VakifBankFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\VakifBankFactory.cs",
+              "RelativeToolTip": "Console.App\\Factories\\VakifBankFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:35:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AkbankFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\AkbankFactory.cs",
+              "RelativeDocumentMoniker": "Console.App\\Factories\\AkbankFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Factories\\AkbankFactory.cs",
+              "RelativeToolTip": "Console.App\\Factories\\AkbankFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:34:48.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBankFactory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Abstractions\\IBankFactory.cs",
+              "RelativeDocumentMoniker": "Console.App\\Abstractions\\IBankFactory.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Abstractions\\IBankFactory.cs",
+              "RelativeToolTip": "Console.App\\Abstractions\\IBankFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:29:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBank.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Abstractions\\IBank.cs",
+              "RelativeDocumentMoniker": "Console.App\\Abstractions\\IBank.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Abstractions\\IBank.cs",
+              "RelativeToolTip": "Console.App\\Abstractions\\IBank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:23:01.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Akbank.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\Akbank.cs",
+              "RelativeDocumentMoniker": "Console.App\\Banks\\Akbank.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\Akbank.cs",
+              "RelativeToolTip": "Console.App\\Banks\\Akbank.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:20:45.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ziraat.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\Ziraat.cs",
+              "RelativeDocumentMoniker": "Console.App\\Banks\\Ziraat.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\Ziraat.cs",
+              "RelativeToolTip": "Console.App\\Banks\\Ziraat.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:20:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VakifBank.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\VakifBank.cs",
+              "RelativeDocumentMoniker": "Console.App\\Banks\\VakifBank.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Banks\\VakifBank.cs",
+              "RelativeToolTip": "Console.App\\Banks\\VakifBank.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:20:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Program.cs",
+              "RelativeDocumentMoniker": "Console.App\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MextFullStackBootcamp-master\\Console.App\\Console.App\\Program.cs",
+              "RelativeToolTip": "Console.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:18:55.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
